@@ -191,7 +191,8 @@ body.nav-active {
 }
 
 .btn-secondary {
-    background-color: rgb(192, 221, 134);
+    /* background-color: rgb(192, 221, 134); */
+    background-image: linear-gradient(rgb(233, 226, 226), rgb(71, 224, 227));
 }
 
 .btn-primary {
